@@ -6,8 +6,8 @@ This project is inspired by **Alex Freberg (Alex The Analyst)** and follows a pr
 ## 🧩 Project Structure
 The project is divided into **2 main parts**:
 
-### SQL Data Exploration
-### Tableau Visualization 
+1️⃣ SQL Data Exploration
+2️⃣Tableau Visualization 
 
 🔗 **Tableau Dashboard:**  
 https://public.tableau.com/views/Covid19_17676661463610/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
