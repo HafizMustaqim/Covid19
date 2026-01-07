@@ -4,12 +4,10 @@ This project analyzes global COVID-19 data using SQL, Python, and Tableau to ext
 This project is inspired by **Alex Freberg (Alex The Analyst)** and follows a practical, end-to-end data analytics workflow.
 
 ## 🧩 Project Structure
-The project is divided into **four main parts**:
+The project is divided into **2 main parts**:
 
-### 1️⃣ SQL Data Exploration
-### 2️⃣ Data Cleaning (SQL)
-### 3️⃣ Tableau Visualization 
-### 4️⃣ Correlation Analysis (Python)
+### SQL Data Exploration
+### Tableau Visualization 
 
 🔗 **Tableau Dashboard:**  
 https://public.tableau.com/views/Covid19_17676661463610/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
@@ -27,7 +25,6 @@ https://public.tableau.com/views/Covid19_17676661463610/Dashboard1?:language=en-
 
 ## 🛠️ Tools & Technologies
 - **SQL Server Management Studio** – Data exploration and cleaning
-- **Python** – Correlation analysis
 - **Tableau** – Data visualization
 
 ## 🎓 Credits & Acknowledgements
